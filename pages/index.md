@@ -8,14 +8,6 @@
 
 2 con vit
 
-- asd
-- asdss
-  - 123
-
-```cpp 
-    cin >> n;
-```
-
 `asdiii`
 
 **abc**
